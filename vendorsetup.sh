@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_mido-userdebug
-add_lunch_combo omni_mido-eng
+add_lunch_combo omni_home-userdebug
+add_lunch_combo omni_home-eng

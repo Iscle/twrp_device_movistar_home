@@ -35,8 +35,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := mido
-PRODUCT_NAME := omni_mido
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi Note 4
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := home
+PRODUCT_NAME := omni_home
+PRODUCT_BRAND := Movistar
+PRODUCT_MODEL := Home
+PRODUCT_MANUFACTURER := Movistar
